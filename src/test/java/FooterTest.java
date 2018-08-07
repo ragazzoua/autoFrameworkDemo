@@ -12,8 +12,8 @@ public class FooterTest {
     @BeforeClass
     public void setUp() {
         /*WebDriverRunner.setWebDriver(initChromeDriver());*/
-        Configuration.browser = "chrome";
-        ChromeDriverManager.getInstance().setup();
+        Configuration.browser = "chrome"; // if will uncomit first line just delete it
+        ChromeDriverManager.getInstance().setup(); //
 
     }
 

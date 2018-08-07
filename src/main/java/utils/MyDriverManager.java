@@ -11,6 +11,8 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import java.net.MalformedURLException;
 import java.net.URI;
 
+//https://github.com/zotkevlad/automationDemo
+// uncomit all and del second and third line in the setup method
 public class MyDriverManager {
 
 
