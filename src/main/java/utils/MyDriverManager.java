@@ -1,4 +1,4 @@
-/*
+
 package utils;
 
 import com.codeborne.selenide.Configuration;
@@ -35,4 +35,4 @@ public class MyDriverManager {
         return driver;
     }
 }
-*/
+
